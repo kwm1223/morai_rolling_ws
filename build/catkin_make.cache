@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/kwm1223/morai_rolling_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kwm1223/morai_rolling_ws/install -G Unix Makefiles
